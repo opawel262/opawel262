@@ -8,5 +8,5 @@
 
 🚀 I'm currently learning deployment and honing my skills in:
 
-[![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,kubernetes,nginx)](https://skillicons.dev)
 
