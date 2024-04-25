@@ -10,3 +10,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions,kubernetes,nginx)](https://skillicons.dev)
 
+![](https://komarev.com/ghpvc/?username=your-github-opawel262)
