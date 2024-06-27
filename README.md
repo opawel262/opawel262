@@ -6,7 +6,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode,react)](https://skillicons.dev)
 
-🚀 I'm currently learning deployment and honing my skills in:
+🚀 I'm currently honing my skills in:
 
 [![My Skills](https://skillicons.dev/icons?i=docker,githubactions,react)](https://skillicons.dev)
 
