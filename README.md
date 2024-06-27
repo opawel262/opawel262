@@ -4,7 +4,7 @@
 
 💻 I'm in software development and currently focusing on backend API projects involving:
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode)](https://skillicons.dev)
 
 🚀 I'm currently honing my skills in:
 
