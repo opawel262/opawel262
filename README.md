@@ -1,13 +1,9 @@
-## Hi there, I'm Pawel Ochal! 👋
-
 🎓 I'm a second-year student at the University of Rzeszow, pursuing my studies in Computer Science.
 
-💻 I'm in software development and currently focusing on backend API projects involving:
+💻 I'm into software development and currently focusing on backend API projects involving:
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode,docker,githubactions,linux,nginx)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,git,github,vscode)](https://skillicons.dev)
+🚀 Sometimes doing some frontend stuff:  
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind)](https://skillicons.dev)
 
-🚀 I'm currently honing my skills in:
-
-[![My Skills](https://skillicons.dev/icons?i=docker,githubactions,react)](https://skillicons.dev)
-
-![](https://komarev.com/ghpvc/?username=your-github-opawel262)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-opawel262)
