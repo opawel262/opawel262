@@ -1,5 +1,3 @@
-🎓 I'm a second-year student at the University of Rzeszow, pursuing my studies in Computer Science.
-
 💻 I'm into software development and currently focusing on backend API projects involving:
 [![My Skills](https://skillicons.dev/icons?i=python,django,fastapi,postgresql,redis,git,github,vscode,docker,githubactions,linux,nginx)](https://skillicons.dev)
 
